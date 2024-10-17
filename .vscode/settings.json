@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "FLINK.C": "cpp",
+        "QUEUE.C": "cpp"
+    }
+}
